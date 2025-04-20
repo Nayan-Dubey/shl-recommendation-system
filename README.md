@@ -1,9 +1,10 @@
 # SHL Recommendation Engine
 
-![SHL Recommendation Engine](img1.png)
+
 
 A recommendation engine for SHL assessments that leverages FAISS, HuggingFace embeddings, and a custom LLM pipeline. The project includes a Streamlit-based user interface for querying recommendations and exporting results to PDF.
 
+![SHL Recommendation Engine](img1.png)
 ---
 
 ## Features
