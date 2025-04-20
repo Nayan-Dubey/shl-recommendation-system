@@ -1,5 +1,8 @@
 streamlit
 transformers
-faiss-cpu
 langchain
+faiss-cpu
+nltk
+reportlab
 sentence-transformers
+torch
