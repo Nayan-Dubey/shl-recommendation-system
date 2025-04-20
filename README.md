@@ -48,6 +48,7 @@ View recommendations and export them to a PDF if needed.
 
 Project Structure
 shl-recommendation-engine/
+
 ├── [app.py](http://_vscodecontentref_/0)                 # Streamlit app
 
 ├── [rag_engine.py](http://_vscodecontentref_/1)          # Recommendation engine logic
