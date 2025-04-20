@@ -48,10 +48,16 @@ View recommendations and export them to a PDF if needed.
 Project Structure
 shl-recommendation-engine/
 ├── [app.py](http://_vscodecontentref_/0)                 # Streamlit app
+
 ├── [rag_engine.py](http://_vscodecontentref_/1)          # Recommendation engine logic
+
 ├── [utils.py](http://_vscodecontentref_/2)               # Utility functions for preprocessing and indexing
+
 ├── [shl_catalogue.json](http://_vscodecontentref_/3)     # SHL assessment data
+
 ├── [requirements.txt](http://_vscodecontentref_/4)       # Python dependencies
+
 ├── .env                   # Environment variables
+
 └── README.md              # Project documentation
 
